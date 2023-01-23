@@ -1,0 +1,27 @@
+body {
+    margin: 0 30px;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    color: white;
+}
+.card div {
+    width: 30%;
+    background-color: rgba(22, 172, 202, 0.5);
+    margin-bottom: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-between;
+    align-items: center;
+    padding-top: 30px;
+}
+.card img {
+    width: 80%;
+}
+.name {
+    font-size: 30px;
+}

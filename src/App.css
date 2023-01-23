@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}   
+body {
+    
+    background-image: url('https://i.pinimg.com/564x/a0/fb/9e/a0fb9eba4b967007c898638cb1a1de46.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
